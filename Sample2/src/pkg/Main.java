@@ -6,6 +6,5 @@ public class Main {
 		display.displayName();
 		display.displayAge();
 		display.displayAge();
-		kjfdbnkwf
 	}
 }
