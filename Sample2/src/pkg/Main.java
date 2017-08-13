@@ -5,5 +5,7 @@ public class Main {
 		DemoClassDisplay display = new DemoClassDisplay();
 		display.displayName();
 		display.displayAge();
+		display.displayAge();
+		kjfdbnkwf
 	}
 }
