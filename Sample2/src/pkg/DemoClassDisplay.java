@@ -7,4 +7,5 @@ public class DemoClassDisplay {
 	public void displayAge(){
 		System.out.println("22");
 	}
+	hello;
 }
